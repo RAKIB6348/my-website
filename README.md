@@ -53,3 +53,14 @@
 ---
 
 ## 📁 Project Structure
+my-portfolio-website/
+│
+├── 📄 index.html # Main HTML file (complete website)
+├── 📄 style.css # CSS stylesheet (all styling)
+├── 📄 script.js # JavaScript functionality
+├── 📁 images/ # Images folder
+│ ├── screenshot-1.png
+│ ├── screenshot-2.png
+│ └── (your images)
+├── 📄 README.md # Project documentation
+└── 📄 .gitignore # Git ignore file
